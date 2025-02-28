@@ -1,0 +1,1 @@
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "spartan-archive-447322-h3-15f62c9161b0.json"
